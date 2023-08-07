@@ -67,12 +67,4 @@ https://scenario-vehicle-debz.netlify.app/
 - npm install
 - json server
 
-Preview:
-![image](https://github.com/adapaharshitha405/React_vehical_application/assets/116443003/0de08628-40fd-4e6e-97e1-e539fc67cfb8)
-![image](https://github.com/adapaharshitha405/React_vehical_application/assets/116443003/e41f0971-f694-42a4-b961-652edbb008ce)
-![image](https://github.com/adapaharshitha405/React_vehical_application/assets/116443003/5d01e248-532e-45b9-bc00-f708fdcdf333)
-![image](https://github.com/adapaharshitha405/React_vehical_application/assets/116443003/9f5e09f5-d97b-4400-af2e-900dca8b9106)
-![image](https://github.com/adapaharshitha405/React_vehical_application/assets/116443003/95b7c7d7-4c55-4f8f-9921-406de877fa63)
-
-
 
