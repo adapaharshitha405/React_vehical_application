@@ -57,15 +57,6 @@ This React.js Vehicle Simulation Application provides a user-friendly interface 
 
 https://scenario-vehicle-debz.netlify.app/
 
-## Preview
-
-![image](https://user-images.githubusercontent.com/67649413/225752761-d4548a20-cf53-46a1-9225-d18519f50c5f.png)
-![image](https://user-images.githubusercontent.com/67649413/225752844-302ca0dc-8c7a-4117-b91e-df04729d2940.png)
-![image](https://user-images.githubusercontent.com/67649413/225753003-a0393823-927a-491f-8353-94d2363507fb.png)
-![image](https://user-images.githubusercontent.com/67649413/225753174-599358a0-4619-4f7b-b60d-dade2a7f7494.png)
-![image](https://user-images.githubusercontent.com/67649413/225753206-790208c8-9d07-4ab8-b6aa-794bda3380bc.png)
-![image](https://user-images.githubusercontent.com/67649413/225753249-227e532e-3229-48d4-92c6-de5eb9014949.png)
-
 ## `Tools Used`
 
 ### FRONTEND
@@ -75,3 +66,13 @@ https://scenario-vehicle-debz.netlify.app/
 ### BACKEND
 - npm install
 - json server
+
+Preview:
+![image](https://github.com/adapaharshitha405/React_vehical_application/assets/116443003/0de08628-40fd-4e6e-97e1-e539fc67cfb8)
+![image](https://github.com/adapaharshitha405/React_vehical_application/assets/116443003/e41f0971-f694-42a4-b961-652edbb008ce)
+![image](https://github.com/adapaharshitha405/React_vehical_application/assets/116443003/5d01e248-532e-45b9-bc00-f708fdcdf333)
+![image](https://github.com/adapaharshitha405/React_vehical_application/assets/116443003/9f5e09f5-d97b-4400-af2e-900dca8b9106)
+![image](https://github.com/adapaharshitha405/React_vehical_application/assets/116443003/95b7c7d7-4c55-4f8f-9921-406de877fa63)
+
+
+
